@@ -1,0 +1,54 @@
+{
+  "cz": {
+    "header": {
+      "title": "Tankodrom 3000",
+      "home": "Domů",
+      "service": "Naše programy",
+      "images": "Galerie",
+      "contact": "Kontaktujte nás"
+    },
+    "about": {
+      "title": "O nás",
+      "short": "Vero tempor ut justo kasd stet, ipsum et tempor sit sed, ipsum eirmod vero stet dolores est, et diam ut dolor kasd sed ipsum eirmod ea ipsum, dolore et diam dolor lorem invidunt erat et eos, voluptua diam magna rebum tempor vero dolor amet lorem labore. Duo stet magna no.",
+      "details": "Clita diam clita amet ipsum duo sanctus ut et. No justo dolor et sanctus et at et, lorem aliquyam elitr accusam accusam ea rebum, aliquyam rebum consetetur et aliquyam. Accusam stet dolores invidunt diam aliquyam sea et, sadipscing magna dolor ipsum elitr vero amet amet, ut diam consetetur duo invidunt. Dolores amet duo stet aliquyam ut sed. Eos accusam dolor amet sadipscing. Sed invidunt eos labore sea. Et et invidunt invidunt lorem dolor ipsum lorem ipsum, et et ea tempor lorem labore justo magna ipsum stet. At invidunt consetetur et ut at, amet invidunt sit sit sed ut voluptua ut, amet magna nonumy dolore kasd amet sed est, aliquyam dolor sea sea erat et takimata duo dolor. Gubergren sed consetetur amet sit duo. Ipsum eos voluptua sadipscing gubergren elitr lorem ea. Accusam at eos eos sed tempor invidunt, rebum amet elitr ipsum kasd rebum ipsum tempor et, voluptua duo et dolore et amet duo. Eos takimata accusam sit sed voluptua at gubergren vero. Sed et accusam et at ipsum labore, ut aliquyam dolor lorem sed et eirmod, eirmod elitr accusam stet sit est amet. Gubergren at nonumy sed ipsum takimata. Tempor diam elitr ipsum no diam lorem ut, sea no.",
+      "end": "Kasd duo tempor et sed eirmod et dolores ipsum, consetetur diam et diam aliquyam diam. Lorem at dolore sed vero dolores, dolor sit justo et sadipscing sea, dolore et et sanctus aliquyam dolore lorem clita elitr sit, diam diam diam sadipscing elitr dolores eirmod. Clita ipsum sadipscing et magna consetetur no. Erat voluptua dolor at kasd justo nonumy est. Magna diam eos dolor ipsum ipsum ea dolor, tempor eos nonumy tempor lorem justo sed rebum nonumy diam, et lorem et diam vero dolor sed sit. Sit sit accusam nonumy sed dolore dolor. Rebum elitr est dolor erat nonumy, diam invidunt."
+    },
+    "contact": {
+      "title": "Kontaktujte nás",
+      "text": "Máte nějaké otázky či nejasnosti co se týče našich služeb? Pak nás neváhejte kontaktovat, jsme dostupní jak na telefonu, tak i e-mailu!",
+      "responsibleP": "Zodpovědná osoba: Josef Kergos",
+      "address": "Adresa objektu: Lipsum 324/07 Liberec",
+      "email": "E-mail: contact@tankodrom3000.cz",
+      "phone": "Tel. č.: (+420) 111 222 333"
+    },
+    "footer": {
+      "copyright": "&#169Copyright DewEnforcer 2020, &#169Copyright všech obrázků patří jejim majitelům. Tato stránka byla vytvořena za vzdělávacími účely."
+    }
+  },
+  "en": {
+    "header": {
+      "title": "Tankodrom 3000",
+      "home": "Home",
+      "service": "Our programs",
+      "images": "Gallery",
+      "contact": "Contact us"
+    },
+    "about": {
+      "title": "About us",
+      "short": "Vero tempor ut justo kasd stet, ipsum et tempor sit sed, ipsum eirmod vero stet dolores est, et diam ut dolor kasd sed ipsum eirmod ea ipsum, dolore et diam dolor lorem invidunt erat et eos, voluptua diam magna rebum tempor vero dolor amet lorem labore. Duo stet magna no.",
+      "details": "Clita diam clita amet ipsum duo sanctus ut et. No justo dolor et sanctus et at et, lorem aliquyam elitr accusam accusam ea rebum, aliquyam rebum consetetur et aliquyam. Accusam stet dolores invidunt diam aliquyam sea et, sadipscing magna dolor ipsum elitr vero amet amet, ut diam consetetur duo invidunt. Dolores amet duo stet aliquyam ut sed. Eos accusam dolor amet sadipscing. Sed invidunt eos labore sea. Et et invidunt invidunt lorem dolor ipsum lorem ipsum, et et ea tempor lorem labore justo magna ipsum stet. At invidunt consetetur et ut at, amet invidunt sit sit sed ut voluptua ut, amet magna nonumy dolore kasd amet sed est, aliquyam dolor sea sea erat et takimata duo dolor. Gubergren sed consetetur amet sit duo. Ipsum eos voluptua sadipscing gubergren elitr lorem ea. Accusam at eos eos sed tempor invidunt, rebum amet elitr ipsum kasd rebum ipsum tempor et, voluptua duo et dolore et amet duo. Eos takimata accusam sit sed voluptua at gubergren vero. Sed et accusam et at ipsum labore, ut aliquyam dolor lorem sed et eirmod, eirmod elitr accusam stet sit est amet. Gubergren at nonumy sed ipsum takimata. Tempor diam elitr ipsum no diam lorem ut, sea no.",
+      "end": "Kasd duo tempor et sed eirmod et dolores ipsum, consetetur diam et diam aliquyam diam. Lorem at dolore sed vero dolores, dolor sit justo et sadipscing sea, dolore et et sanctus aliquyam dolore lorem clita elitr sit, diam diam diam sadipscing elitr dolores eirmod. Clita ipsum sadipscing et magna consetetur no. Erat voluptua dolor at kasd justo nonumy est. Magna diam eos dolor ipsum ipsum ea dolor, tempor eos nonumy tempor lorem justo sed rebum nonumy diam, et lorem et diam vero dolor sed sit. Sit sit accusam nonumy sed dolore dolor. Rebum elitr est dolor erat nonumy, diam invidunt."
+    },
+    "contact": {
+      "title": "Contact us",
+      "text": "Are you unsure about something or puzzled how for example our services work? Then do not hesitate to contact us, we are available both on phone and e-mail!",
+      "responsibleP": "Responsible person: Josef Kergos",
+      "address": "Address: Lipsum 324/07 Liberec",
+      "email": "E-mail: contact@tankodrom3000.cz",
+      "phone": "Tel. number: (+420) 111 222 333"
+    },
+    "footer": {
+      "copyright": "&#169Copyright DewEnforcer 2020, &#169Copyright of all images on this site goes to their individual owners. This site has been only made for educational purposes."
+    }
+  }
+}
