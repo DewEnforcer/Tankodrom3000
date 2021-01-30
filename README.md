@@ -1,2 +1,7 @@
-Landing page of made up bussiness. Made using vanilla js.
-STATUS: COMPLETE
+#About project
+Landing page of a made-up business, supports CZ/EN language.
+#Setup
+```
+$ git clone https://github.com/DewEnforcer/Tankodrom3000
+```
+Afterwards simply put the files in your server folder and you're set
