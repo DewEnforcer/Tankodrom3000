@@ -1,6 +1,6 @@
-#About project
+# About project
 Landing page of a made-up business, supports CZ/EN language.
-#Setup
+# Setup
 ```
 $ git clone https://github.com/DewEnforcer/Tankodrom3000
 ```
